@@ -1,0 +1,567 @@
+/*Responsive CSS Start*/
+@media only screen and (max-width:1920px){
+
+}
+/*1560*/
+@media only screen and (max-width:1559px){
+    .banner-heading::before {
+        height: 343px;
+        width: 343px;
+        left: -16px;
+        bottom: -86px;
+    }
+
+}
+/*1440*/
+@media only screen and (max-width:1439px){
+    .center-wraper{
+        width: 96%;
+    }
+    .banner-form {
+        width: 46%;
+    }
+    .solution-section-content.left {
+        width: 52%;
+    }
+}
+
+/*1366*/
+@media only screen and (max-width:1365px){
+    .banner-form {
+        width: 48%;
+    }
+    .help-content {
+         margin-top: 0px; 
+    }
+    .solution-content-button a {
+        margin-right: 11px;
+    }
+    .testimonial-box-content p {
+        padding: 0px 54px;
+    }
+}
+/*1320*/
+@media only screen and (max-width:1319px){
+    .help-content {
+        width: 45%;
+    }
+    .help-content-article {
+        font-size: 16px;
+        margin-top: 14px;
+    }
+
+}
+/*1280*/
+@media only screen and (max-width:1279px){
+     .banner-heading h1 {
+        font-size: 55px;
+    }
+    .banner-heading.left {
+        width: 49%;
+    }
+    .banner-form {
+        width: 51%;
+    }
+    .help-content {
+        width: 44%;
+    }
+    .help-boxes {
+        padding: 52px 48px 21px 27px;
+    }
+    .help-image::before {
+        top: -15px;
+        left: -15px;
+    }
+    .solution-content-button a {
+        margin-right: 9px;
+    }
+    .footer-content {
+        margin: 204px 0px 23px 27px;
+    }
+    .solution-content-button {
+        margin-top: 25px;
+    }
+}
+/*1200*/
+@media only screen and (max-width:1199px){
+    .banner-heading h1 {
+        font-size: 39px;
+    }
+    .banner-heading h1::after {
+        width: 374px;
+    }
+    .banner-heading.left {
+        width: 40%;
+    }
+    .banner-heading::before {
+        height: 300px;
+        width: 300px;
+        left: -16px;
+        bottom: -73px;
+    }
+     .banner-form {
+        width: 60%;
+    }
+    .help-boxes {
+        padding: 42px 8px 14px 11px;
+    }
+    .help-boxes {
+        margin-bottom: 40px;
+    }
+    .help-image {
+        width: 54%;
+    }
+    .help-content-article {
+        font-size: 16px;
+        margin-top: 0px;
+    }
+    .help-content-heading h4{
+        font-size: 20px;
+    }
+    .solution-content-button a {
+        min-width: 244px;
+        padding: 14px 0px 17px 41px;
+    }
+    .solution-section-image {
+        padding-top: 34px;
+    }
+    .testimonial {
+        padding: 24px 0px 309px 0px;
+    }
+    .testimonial-box-section {
+        margin-top: -297px;
+    }
+    .testimonial-box-atom {
+        margin: 15px auto;
+    }
+    .testimonial-box-content p {
+        padding: 0px 45px;
+        font-size: 17px;
+    }
+    .testimonial-name {
+        text-align: center;
+        padding: 22px 0px 22px 0px;
+    }
+    .footer-heading h4 {
+        font-size: 19px;
+    }   
+    .footer-contact p a {
+        font-size: 16px;
+        line-height: 28px;
+    }
+}
+/*1024*/
+@media only screen and (max-width:1023px){
+    .banner-form {
+        width: 58%;
+    }
+    .radio {
+        width: 30%;
+    }
+    .radio-fields h6 {
+        margin-right: 90px;
+    }
+    .help-content-article {
+        font-size: 15px;
+    }
+    .solution-content-button a {
+        min-width: 233px;
+    }
+}
+/*980*/
+@media only screen and (max-width:979px){
+    header {
+        padding: 8px 0px 5px 0px;
+    }
+    .nav-logo.left {
+        float: unset;
+        text-align: center;
+    }
+    .nav-list.right {
+        float: unset;
+        text-align: center;
+    }
+    .banner {
+        padding: 27px 0px 0px 0px;
+    }
+    .banner-heading.left {
+        float: unset;
+        width: 100%;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .banner-heading::before {
+        height: 181px;
+        width: 181px;
+        left: 50px;
+        bottom: -23px;
+    }
+    .banner-heading h1 {
+        font-size: 55px;
+        line-height: 67px;
+    }
+    .banner-heading h1::after {
+        width: 529px;
+        top: 39px;
+        left: 105px;
+    }
+    .banner-form.right {
+        float: unset;
+        width: 100%;
+        margin-top: 34px;
+    }
+    .input-fields {
+        width: 100%;
+    }
+  /*  .input-fields:nth-child(1), .input-fields:nth-child(3) {
+        margin-right: 20px;
+    }*/
+    .radio {
+        width: 22%;
+    }
+    .radio-fields h6 {
+        margin-right: 268px;
+    }
+    .help {
+        padding: 32px 0px 0px 0px;
+    }
+    .help-image.left {
+        float: unset;
+        margin: 0 auto;
+        width: 86%;
+    }
+    .help-content.right {
+        float: unset;
+        width: 100%;
+        margin-top: 59px;
+    }
+    .help-content-article {
+        font-size: 16px;
+        padding:  0px 10px;
+    }
+    .help-content-heading h4 {
+        font-size: 22px;
+        padding: 10px;
+    }
+    .solution {
+        padding-bottom: 41px;
+    }
+    .solution-section-content.left {
+        float: unset;
+        width: 100%;
+        text-align: center;
+    }
+    .solution-section-content h2 {
+        font-size: 35px;
+        line-height: 48px;
+    }
+    .solution-content-button a {
+        min-width: 275px;
+        padding: 19px 13px 17px 60px;
+        margin-right: 37px;
+    }
+    .solution-section-image.right {
+        float: unset;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .testimonial-para p {
+        font-size: 18px; text-align: center;
+        width: 100%;
+        padding-top: 15px;
+    }
+    .testimonial-box-section {
+        width: 94%;
+    }
+    .testimonial-box-atom {
+        margin: 0px auto;
+    }
+    .testimonial-box-section {
+        margin-top: -282px;
+    }
+    .testimonial-box-content p {
+        padding: 0px 34px;
+        font-size: 16px;
+    }
+    .testimonial-name {
+        padding: 5px 0px 8px 0px;
+    }
+    .video-image {
+        padding: 53px 0px 53px 0px;
+    }
+    .awards {
+        margin-bottom: 60px;
+    }
+    .footer-content.left {
+        float: unset;
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .footer-heading {
+        text-align: center;
+    }
+    .footer-contact {
+        margin: 19px 0px 0px 80px;
+    }
+    .copyright-section {
+        margin-top: 18px;
+    }
+}
+/*768*/
+@media only screen and (max-width:767px){
+    .banner-heading h1 {
+        font-size: 45px;
+        line-height: 58px;
+    }
+    .banner-heading h1::after {
+       width: 438px;
+        top: 29px;
+        left: 97px;
+    }
+    .radio-fields h6 {
+        margin-right: 133px;
+    }
+    .radio {
+        width: 26%;
+    }
+    .help-heading {
+        text-align: center;
+        margin-bottom: 33px;
+    }
+    .solution-section-content h2 {
+        font-size: 29px;
+        line-height: 40px;
+    }
+    .solution-content-button a {
+        min-width: 262px;
+    }
+     .testimonial-box-section {
+        width: 92%;
+    }
+}
+/*650*/
+@media only screen and (max-width:649px){
+    .banner-heading h1 {
+        font-size: 40px;
+        line-height: 52px;
+    }
+    .banner-heading h1::after {
+        width: 385px;
+        top: 24px;
+        left: 82px;
+    }
+    .banner-heading::before {
+        height: 181px;
+        width: 181px;
+        left: 32px;
+        bottom: -42px;
+    }
+    .banner-form.right {
+        margin-top: 53px;
+    }
+    .form-heading h4 {
+        font-size: 22px;
+    }
+    .radio {
+        width: 31%;
+    }
+    .radio-fields h6 {
+        margin-right: 80px;
+    }
+    .submit-btn {
+        padding-top: 0px;
+    }
+    .solution-content-button a::before {
+        width: 24%;
+    }
+
+    .solution-section-content h2 {
+        font-size: 25px;
+        line-height: 38px;
+    }
+    .solution-content-button a {
+        min-width: 221px;
+        text-align: left;
+        font-size: 16px;
+    }
+    .testimonial-heading h3 {
+        font-size: 38px;
+        line-height: 50px;
+    }
+    .testimonial-para p {
+        font-size: 16px;
+    }
+    .footer-heading h3{
+        font-size: 38px;
+        line-height: 50px;
+    }
+}
+/*568*/
+@media only screen and (max-width:567px){
+    .banner-heading::before {
+        height: 150px;
+        width: 150px;
+    }
+    .banner-heading h1::after {
+        width: 296px;
+        top: 17px;
+        left: 87px;
+    }
+    .banner-form{
+        padding: 15px 20px 12px 33px;
+    }
+    .banner-heading h1 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .banner-heading h1 span {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .form-heading h4 {
+        font-size: 20px;
+    }
+    .input-fields{
+        width: 100%;
+    }
+    .radio {
+        width: 32%;
+    }
+    .radio-fields h6 {
+        margin-right: 27px;
+    }
+    .radio input {
+        margin: 0px 8px 0px 6px;
+    }
+    .submit-btn input {
+        padding: 12px 47px;
+    }
+    .help-heading h2{
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .solution-section-content h2 {
+        font-size: 20px;
+        line-height: 34px;
+    }
+    .solution-content-button a {
+        margin-right: 0;
+    }
+    .testimonial-box-section {
+        width: 89%;
+    }
+
+}
+/*480*/
+@media only screen and (max-width:479px){
+    .banner-heading::before {
+        left: 10px;
+        bottom: -34px;
+    }
+    .banner-heading h1::after {
+        left: 56px;
+    }
+    .input-fields select {
+        padding-right: 0;
+    }
+    .input-fields input, .input-fields select {
+        padding: 20px 16px;
+    }
+    .radio input {
+        margin: 0px 0px 0px 0px;
+    }
+    .radio {
+        width: 29%;
+    }
+    .radio-fields h6 {
+        margin-right: 0px;
+        font-size: 15px;
+    }
+    .solution-content-button a {
+        min-width: 287px;
+        text-align: center;
+    }
+    .solution-content-button a::before {
+        width: 21%;
+    }
+    .testimonial-box-atom {
+         width: 30%;
+    }
+    .video-button a {
+        box-shadow: 0.5px 0.3px 0px 5px #4D7AA1;
+        padding: 7px 12px;
+    }
+}
+/*414*/
+@media only screen and (max-width:413px){
+    .banner-heading h1::after {
+        left: 43px;
+    }
+     .banner-form {
+        padding: 15px 14px 12px 14px;
+    }
+}
+/*390*/
+@media only screen and (max-width:389px){
+    .banner-heading h1::after {
+        left: 35px;
+    }
+    .input-fields select {
+        font-size: 15px;
+    }
+    .radio {
+        width: 32%;
+    }
+    .radio-fields {
+        padding-bottom: 12px;
+    }
+}
+/*375*/
+@media only screen and (max-width:374px){
+    .nav-contact a {
+        padding: 5px 25px 10px 60px;
+    }
+    .banner-heading::before {
+        left: 10px;
+        bottom: -41px;
+    }
+    .banner-heading h1 {
+        font-size: 25px;
+        line-height: 37px;
+    }
+     .banner-heading h1::after {
+        width: 250px;
+        height: 24px;
+    }
+    .banner-heading h1 span {
+        font-size: 24px;
+        line-height: 37px;
+    }
+    .banner-heading::before {
+        left: 10px;
+        bottom: -30px;
+        height: 126px;
+        width: 126px;
+    }
+    .form-heading h4 {
+        font-size: 18px;
+    }
+    .radio {
+        width: 39%;
+    }
+    .footer-contact a svg {
+        height: 64px;
+        width: 64px;
+        left: -56px;
+        top: 22px;
+        padding: 18px;
+    }
+    .footer-contact {
+        margin: 19px 0px 0px 53px;
+    }
+    .footer-contact p a {
+        font-size: 15px;
+    }
+}
+/*320*/
+/*Responsive CSS End
